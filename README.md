@@ -37,10 +37,15 @@ Subsequently, the selected datasets were unified and organized to merge similar 
 
    The sample properties of each dataset are analyzed in the table, and ultimately we recommend [HRSC2016](http://www.escience.cn/people/liuzikun/DataSet.html)→[HRSID](https://github.com/chaozhong2010/HRSID) as a set of experimental settings, [DIOR](http://www.escience.cn/people/gongcheng/DIOR.html)→[SSDD](https://github.com/TianwenZhang0825/Official-SSDD) as a set of experimental settings, and the [HRRSD](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset) data can be used as an alternative source domain setting for the [HRSID](https://github.com/chaozhong2010/HRSID) target domains or as an auxiliary dataset for each group due to its lower spatial resolution.
 # Mainstream method evaluation
-  为了确保上述跨域任务数据集设置的可行性，我们将现有的主流跨域场景分类以及跨域目标检测方法在该benchmark上做了一些实验。
+  In order to ensure the feasibility of the above cross-domain task dataset setup, we have done some experiments with the existing mainstream cross-domain scene categorization as well as cross-domain target detection methods on this benchmark.
   ## 1.Scene Recognition：
-  即将到来.....
+  Upcoming Updates.....
   ## 2.Target Recognition：
+  We have selected for evaluation methods that have had excellent performance in cross-domain target detection tasks in recent years, which include[SWF(CVPR’19)]( https://github.com/VisionLearningGroup/DA_Detection)[EPM (ECCV’20)](https://github.com/chengchunhsu/EveryPixelMatters.)[AQT(IJCAI’22)](https://github.com/weii41392/AQT)and[RST(TGRS’24)](https://github.com/h751410234/RemoteSensingTeacher)
+  The following table is a combination of the[DIOR](http://www.escience.cn/people/gongcheng/DIOR.html) as the source domain, [NWPU VHR-10](https://pan.baidu.com/s/1hqwzXeG#list/path=%2F) as the target domain.
+  ![image](https://github.com/XiangtaoZheng/CDRSSI/assets/23554030/ec014a7a-8b43-4c8f-ac0c-11022c4b8483)
+  The following table is a combination of the[HRRSD](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset) as the source domain, [NWPU VHR-10](https://pan.baidu.com/s/1hqwzXeG#list/path=%2F)as the target domain.
+
   
   
     
