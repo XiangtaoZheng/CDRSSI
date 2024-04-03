@@ -37,7 +37,11 @@ Subsequently, the selected datasets were unified and organized to merge similar 
 
    The sample properties of each dataset are analyzed in the table, and ultimately we recommend [HRSC2016](http://www.escience.cn/people/liuzikun/DataSet.html)→[HRSID](https://github.com/chaozhong2010/HRSID) as a set of experimental settings, [DIOR](http://www.escience.cn/people/gongcheng/DIOR.html)→[SSDD](https://github.com/TianwenZhang0825/Official-SSDD) as a set of experimental settings, and the [HRRSD](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset) data can be used as an alternative source domain setting for the [HRSID](https://github.com/chaozhong2010/HRSID) target domains or as an auxiliary dataset for each group due to its lower spatial resolution.
 # Mainstream method evaluation
-Continuously updated...
+  为了确保上述跨域任务数据集设置的可行性，我们将现有的主流跨域场景分类以及跨域目标检测方法在该benchmark上做了一些实验。
+  ## 1.Scene Recognition：
+  即将到来.....
+  ## 2.Target Recognition：
+  
   
     
 
