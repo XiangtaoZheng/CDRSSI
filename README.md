@@ -47,8 +47,6 @@ Subsequently, the selected datasets were unified and organized to merge similar 
   
   The following table is a combination of the [DIOR](http://www.escience.cn/people/gongcheng/DIOR.html) as the source domain, [NWPU VHR-10](https://pan.baidu.com/s/1hqwzXeG#list/path=%2F) as the target domain.
     ![image](https://github.com/XiangtaoZheng/CDRSSI/assets/23554030/0b07d8ec-5c58-4e05-8787-00cd2c59389f)
-
-
   The following table is a combination of the [HRRSD](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset) as the source domain, [NWPU VHR-10](https://pan.baidu.com/s/1hqwzXeG#list/path=%2F) as the target domain.
    ![image](https://github.com/XiangtaoZheng/CDRSSI/assets/23554030/8bfe7288-4c9a-4f35-b5a3-3cb6eb091159)
 
